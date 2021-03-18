@@ -1,1 +1,1 @@
-# custom-icons-for-jira
+# Assets
